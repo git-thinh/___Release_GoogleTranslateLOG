@@ -1,0 +1,10 @@
+﻿An ink exhaustion occurred Would you like to continue printing = Mệt mỏi mực đã xảy ra Bạn có muốn tiếp tục in
+Continue printing when pressing Yes Return to dialogue showing printing = Tiếp tục in khi nhấn Có Quay trở lại đối thoại hiển thị in
+dialogue = đối thoại
+exhaustion = kiệt sức
+occurred = xảy ra
+Paper out has occurred = Giấy ra đã xảy ra
+Paper out = Giấy ra
+- The tray was opened = - khay đã được mở ra
+Content created for the purpose of confirming that the mechanism is realized is optional = Nội dung được tạo ra cho mục đích xác nhận rằng cơ chế được thực hiện là tùy chọn
+Empty = Trống

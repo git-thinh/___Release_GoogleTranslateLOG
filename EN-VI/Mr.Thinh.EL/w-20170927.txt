@@ -1,0 +1,15 @@
+﻿self-study = tự học
+A self-study reference and practice book = Tài liệu tham khảo và thực hành tự học
+reference = tài liệu tham khảo
+practice book = sách thực hành
+grammar = ngữ pháp
+gramma = gramma
+concentrates = tập trung
+above = ở trên
+Use the Contents and - or Index to find which unit deals with t he point you are interested in = Sử dụng Nội dung và - hoặc Chỉ mục để tìm đơn vị nào liên quan đến điểm mà bạn quan tâm
+TRANSPORT = VẬN CHUYỂN
+MMT-BASED MEDIA TRANSPORT SCHEME IN DIGITAL BROADCASTING SYSTEMS = HỆ THỐNG VẬN TẢI TRUYỀN THÔNG MMT TRONG HỆ THỐNG K</s> THUẬT SỐ DIGITAL
+represent = đại diện
+measurement = phép đo
+depends = phụ thuộc
+transmitter = máy phát

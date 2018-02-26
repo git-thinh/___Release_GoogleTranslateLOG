@@ -1,0 +1,66 @@
+﻿bullshit
+bull shit
+Constant and Never-Ending Improvement
+Constant
+Effortless
+self-study
+A self-study reference and practice book
+reference
+practice book
+grammar
+gramma
+concentrates
+above
+Use the Contents and - or Index to find which unit deals with t he point you are interested in
+TRANSPORT
+MMT-BASED MEDIA TRANSPORT SCHEME IN DIGITAL BROADCASTING SYSTEMS
+represent
+measurement
+depends
+transmitter
+192.168.81.91DocumentMrBinh
+late
+Derived
+Derived1 objecttypeDerived1; Base pointertypeBase  objecttypeDerived1
+lass Base  FunctionPointer vptr; public virtual void function1() ; virtual void function2() ; ; class Derived1 public Base  public virtual void function1() ; ; class Derived2 public Base  public virtual void function2() ;
+Polymorphism
+most-derived
+- - Chuong trình 6.1 2 include iostream.h 3 4 class Base 5  6 public 7 virtual void Display() 8  9 coutclass Baseendl; 10  11 ; 12 13 class Derived  public Base 14  15 public 16 virtual void Display() 17  18 coutclass Derivedendl; 19  20 ; 21 21 void Show(Base B) 22  23 B-Display(); - - Con tr B ch dn phuong thc Display() nào (ca lp Base 24 - - hoc lp Derived) tùy vào lúc chy chuong trình. 25  26 int main() 27  28 Base Bnew Base; 29 Derived Dnew Derived; 30 B-Display(); - - BaseDisplay() 31 D-Display(); - - DerivedDisplay() 32 Show(B); - - BaseDisplay() 33 Show(D); - - DerivedDisplay() 34 return 0; 35
+Passive - Active
+designation is other than d - e
+- - designation is other than d - e t麩 gotoi kh當 vi d - e
+- - - - designation is other than d - e t  gotoi khi vi d - e - chinese dnhh kh當 v枴 d - e t  gotoi khi vi d - e
+- - - - - - designation is other than d - e t gotoi khi vi d - e - chinese dnhh kh v v d - e t gotoi khi vi d - e - - - chinese dnhh kh當 v枴 d - e t gotoi khi vi d - e - Ting Trung Quinc. Dnhh kh v v d - e t gotoi khi vi d - e .
+each time it is built
+Atomics the tool of lock-free programming
+Copying the object means copying all bits (memcpy
+No virtual functions, noexcept constructor
+trivially copyable
+Continuous chunk of memory
+Assignment
+Special atomic operations
+Other operations depend on the type T
+stdatomicint
+Atomic read followed by atomic write
+All operations on the atomic variable are atomic stdatomicint x0; x; - - Atomic pre-increment x; - - Atomic post-increment x  1; - - Atomic increment x | 2; - - Atomic bit set x  2; - - No atomic multiplication int y  x  2; - - Atomic read of x x  y  1; - - Atomic write of x x  x  1; - - Atomic read followed by atomic write x  x  2; - - Atomic read followed by atomic write
+stdatomicT and overloaded operators
+- Continuous suspension can be selected according to generated warning
+suspension
+Continuous
+can be selected according
+according
+selected
+to generated warning
+when the following error occurs
+occurs
+はい
+An ink exhaustion occurred Would you like to continue printing
+Continue printing when pressing Yes Return to dialogue showing printing
+dialogue
+exhaustion
+occurred
+Paper out has occurred
+Paper out
+- The tray was opened
+Content created for the purpose of confirming that the mechanism is realized is optional
+Empty
